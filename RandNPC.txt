@@ -1,0 +1,105 @@
+-Race
+	1. Aasimar
+	2. Dragonborn
+	3. Dwarf
+	4. Elf
+	5. Gnome
+	6. Goblin
+	7. Goliath
+	8. Half-elf
+	9. Half-orc
+	10. Halfling
+	11. human 
+	12. Kenku
+	13. Kobold
+	14. Lizardfolk
+	15. Orc
+	16. Shifter
+	17. Tabaxi
+	18. Tiefling
+	19. Tortle
+	20. Warforged
+-Ocupation
+	1. Beggar
+	2. Shepherd
+	3. Undertaker
+	4. Actor
+	5. Cook
+	6. Teacher
+	7. Fisherman
+	8. Botanist
+	9. Bard
+	10. Tailor
+	11. Miner
+	12. Author
+	13. Maid/butler
+	14. Blacksmith
+	15. Messenger
+	16. Gladiator
+	17. Mercenary
+	18. Alchemist
+	19. Innkeeper
+	20. King/queen
+-Personality
+	1. Flirtatious
+	2. Curious
+	3. Nervous
+	4. Vulgar
+	5. Gentle
+	6. Snobbish
+	7. Generous
+	8. Pessimistic
+	9. Secretive
+	10. Barbaric
+	11. Friendly
+	12. Intelectual
+	13. Humorless
+	14.  gloomy
+	15. Careless
+	16. Honest
+	17. Proud
+	18. Optamistic
+	19. Crual
+	20. Attractive
+-Characteristic
+	1. Muscular
+	2. Lots of tatoos
+	3. Neat/tidy
+	4. Clumsy
+	5. Very tall
+	6. Piercings
+	7. Fidgets
+	8. Storytelling
+	9. Smokes pipe
+	10. Always reading
+	11. Missing finger
+	12. Extravagant clothing 
+	13. Falls asleep instantly
+	14. Lots jewelry
+	15. Covered in dirt
+	16. Always eating
+	17. Very short
+	18. Always sketching
+	19. Loves gambeling
+	20. Attractive
+-Speech
+	1. High pitched
+	2. Excited
+	3. Always whispers
+	4. Nasal 
+	5. Gruff
+	6. Breathy
+	7. Stutters
+	8. Fast talker
+	9. Tense
+	10. Thick accent
+	11. Sing-song voice
+	12. Dark tone
+	13. Aggressive
+	14. Complex vocab
+	15. Slow deep voice 
+	16. Lisp
+	17. Relaxed
+	18. Booming
+	19. Constant lies
+	20. Third person
